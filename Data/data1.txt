@@ -1,0 +1,6 @@
+gender	age	height	weight
+male	18	175	70
+male	25	168	80
+female	30	155	45
+male	41	167	65
+female	21	160	50
